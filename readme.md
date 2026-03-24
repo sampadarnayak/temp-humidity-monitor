@@ -1,5 +1,3 @@
 ## Temperature and Humidity Monitor using Blynk
 
-Real-time temperature and humidity monitoring using ESP32, DHT11 sensor, 
-and Blynk 2.0 for remote visualization via mobile dashboard.
-
+An IoT-based system that monitors real-time temperature and humidity using an ESP32 microcontroller with a DHT11 sensor, streaming live data to the Blynk 2.0 mobile dashboard over Wi-Fi.
